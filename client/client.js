@@ -7,3 +7,4 @@ const map = new mapboxgl.Map({
   center: [14.481106479257642, 35.92691522821607],
   zoom: 15,
 });
+// pull request test
