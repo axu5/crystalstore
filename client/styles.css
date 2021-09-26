@@ -16,6 +16,11 @@ body::before {
   border-radius: 10px;
 }
 
+.custom-lowlight {
+  background-color: #06266b;
+  color: #fff;
+}
+
 .custom-image-max {
   display: block;
   width: auto;
